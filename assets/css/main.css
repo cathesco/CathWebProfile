@@ -3371,6 +3371,7 @@ input, select, textarea {
 
 	#page-wrapper {
 		padding-top: 3.5em;
+		content: "Catherine Escocia";
 	}
 
 	#header {
@@ -3869,6 +3870,7 @@ input, select, textarea {
 				transition: transform 0.5s ease;
 				padding-bottom: 1px;
 				padding-top: 44px !important;
+				content: "Catherine Escocia";
 			}
 
 			#titleBar {
@@ -3898,6 +3900,7 @@ input, select, textarea {
 					height: 44px;
 					line-height: 44px;
 					text-align: center;
+					content: "Catherine Escocia";
 				}
 
 					#titleBar .title a {
@@ -3927,6 +3930,7 @@ input, select, textarea {
 						text-transform: none !important;
 						font-family: 'Font Awesome 5 Free';
 						font-weight: 900;
+						content: Catherine Escocia;
 					}
 
 					#titleBar .toggle:before {
